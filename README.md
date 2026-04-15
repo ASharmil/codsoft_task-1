@@ -1,5 +1,4 @@
-# codsoft_task-1
-codsoft_task 1 consists of my project to do during my datascience internship.
+
 Predicting survival on the Titanic is a classic machine learning task often used for introductory tutorials and competitions. The goal is to predict whether a passenger survived or not based on various attributes such as age, sex, ticket class, fare paid, and others. Here’s a detailed breakdown of the task:
 
 Dataset: The dataset typically includes information about Titanic passengers, such as their age, sex, ticket class, fare paid, number of siblings/spouses aboard, number of parents/children aboard, cabin number, port of embarkation, and whether they survived or not.
